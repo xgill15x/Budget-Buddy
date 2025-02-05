@@ -1,7 +1,7 @@
 
 # Budget Buddy
 
-Bijou Budget is a simple finance tracking application featuring an intuitive user interface.
+Budget Buddy is a simple finance tracking application featuring an intuitive user interface.
 
 Watch a demo here: https://drive.google.com/file/d/1MH4dTxG_pKboG04MVrIlyNr2kw2L3EKm/view?usp=sharing
 
