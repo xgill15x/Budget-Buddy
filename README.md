@@ -1,5 +1,5 @@
 
-# Budget Tracker
+# Budget Buddy
 
 Bijou Budget is a simple finance tracking application featuring an intuitive user interface.
 
